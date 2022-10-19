@@ -4,7 +4,7 @@ All Python Assignments of Artificial Intelligence Course
 
 ## Part 2
 Coding Questions:
-1. Write a Python program to create a tuple with different data types.
+1. Write a Python program to create tuple with different data types.
 2. Write a Python program to print all unique values in a dictionary. Go to the editor
 Sample Data : [{"V":"S001"}, {"V": "S002"}, {"VI": "S001"}, {"VI": "S005"},
 {"VII":"S005"}, {"V":"S009"},{"VIII":"S007"}]
@@ -42,7 +42,7 @@ Take a list, say for example this one:
 a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
 and write a program that prints out all the elements of the list that are less than 5.
 
-Extras:
+Extra's:
 
 1.1. Instead of printing the elements one by one, make a new list that has all the
 elements less than 5 from this list in it and print out this new list.
@@ -170,7 +170,7 @@ Optional additions:
  When the player wins or loses, let them start a new game.
  Rather than telling the user "You have 4 incorrect guesses left", display some picture art for
 the Hangman. This is challenging - do the other parts of the exercise first!
-Your solution will be a lot cleaner if you make use of functions to help you!
+Your solution will be a lot cleaner if you make use of functions to help you
 
 
 
